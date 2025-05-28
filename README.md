@@ -25,7 +25,7 @@ This project is a **static clone** of the official **PhonePe** landing page, bui
 
 | Desktop View                                      |                                      
 | ------------------------------------------------- | 
-| ![Desktop Screenshot](link-to-desktop-screenshot) | 
+| ![Desktop Screenshot](assets/image.png) | 
 
 
 🚀 How to Run

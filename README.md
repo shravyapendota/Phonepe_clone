@@ -32,7 +32,7 @@ This project is a **static clone** of the official **PhonePe** landing page, bui
 
 1. Clone the repository:
 2. 
-   git clone https://github.com/your-username/phonepe-landing-page-clone.git
+   git clone https://github.com/shravyapendota/Phonepe_clone
  
 3. Open `index.html` in your browser.
 4. Explore the design, play with it, or customize it further!

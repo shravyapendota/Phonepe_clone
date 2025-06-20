@@ -26,10 +26,8 @@ This project is a **static clone** of the official **PhonePe** landing page, bui
 | Desktop View                                      |                                      
 | ------------------------------------------------- | 
 ![image](https://github.com/user-attachments/assets/adabd417-a5e7-49b8-a73d-59bd6ecc7f16)
-
-| ![Desktop Screenshot](assets/image.png) |
 ![image](https://github.com/user-attachments/assets/7b46c835-d05e-48ce-913e-b2ad19b610c2)
-
+![image](https://github.com/user-attachments/assets/9158b1aa-bc8d-4b78-acc6-c597b3e7be85)
 ![image](https://github.com/user-attachments/assets/bded0fe3-e2e5-408c-a80d-673c152f2c85)
 
 
